@@ -1,2 +1,16 @@
-# regex-as-logic-equations
-A html (npm) site to display regex as logic equations and even logic gate diagrams. It doesn't have range capabilities for frequencies of occurance, only exact numbers work.
+# The Logic of Regular Expressions
+
+Regex → logic-gate equation + diagram. Hover '\*', '+', '?', '{n}' nodes to see their Thompson NFA fragment.
+
+
+&#x20;   npm install
+    npm run dev          
+
+&#x20;   npm run build \&\& npm start   
+
+
+Structure: 'src/lib' holds the pure logic (parser, equation, layout, nfa)
+'src/components' holds the React UI.
+
+Made by Kushagra Singh for a college project :D
+

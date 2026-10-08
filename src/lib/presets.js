@@ -1,0 +1,1 @@
+export const PRESETS={"name+email":"[A-Z][a-z]+@[a-z]+\\.[a-z]+","cat|dog|bird":"(cat|dog|bird)","ab*c":"ab*c","phone":"[0-9]{3}-[0-9]{3}-[0-9]{4}","hex color":"#[0-9a-f]{6}","url":"https?://[a-z]+\\.[a-z]+"};
