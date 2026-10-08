@@ -1,4 +1,4 @@
-The Logic of Regular Expressions
+# The Logic of Regular Expressions
 
 Regex → logic-gate equation + diagram. Hover '\*', '+', '?', '{n}' nodes to see their Thompson NFA substitutes.
 
