@@ -16,7 +16,8 @@ Structure:
 'src/components' holds the React UI.
 
 Current Development flaws:
-It can't handle specific frequency ranges for a particular set of inputs yet.
+It can't handle specific frequency ranges for a particular set of inputs yet. And some special symbols don't have their diagrammatic implementation yet.
+I also want to make it so the hover over *,? and + could display more than just the nfa but its fine.
 
 PS: Put a backslash before a specific symbol for it to be taken as Input. Example- /. , /{ or /}
 
